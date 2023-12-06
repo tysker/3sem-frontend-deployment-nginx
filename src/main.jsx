@@ -33,7 +33,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
                 <footer className="container">
                     &copy;2022 | <a
-                    href="https://www.schoolhacks.eu"
+                    href="https://schoolhacks.joergoertel.dk/"
                     target="_blank"
                     rel="noreferrer noopener"
                 >SchoolHacks</a>

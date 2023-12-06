@@ -14,7 +14,7 @@ export default function Home({ title }) {
       <p>
         This is a fictitious company and workshops created by{" "}
         <a
-          href="https://www.schoolhacks.eu"
+          href="https://schoolhacks.joergoertel.dk/"
           target="_blank"
           rel="noreferrer noopener"
         >
