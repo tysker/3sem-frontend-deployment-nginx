@@ -1,0 +1,9 @@
+.git
+.cache
+logs/*
+*.md
+**/*.class
+*.iso
+node_modules
+.gitignore
+.idea
