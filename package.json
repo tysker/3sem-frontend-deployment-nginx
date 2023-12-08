@@ -5,10 +5,11 @@
   "author": "Jörg Oertel",
   "license": "Copenhagen Business Academy",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "files": ["dist"],
   "scripts": {
-    "dev": "vite --port 3333",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
