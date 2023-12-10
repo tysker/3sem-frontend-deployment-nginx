@@ -18,10 +18,11 @@ RUN npm run build
 
 # Install 'pm2' and 'serve' globally (if not already installed)
 RUN npm install -g serve
-# RUN npm install -g pm2
+RUN npm install -g pm2
 
 # Expose the port that your app is running on
 EXPOSE 3333
 
 # CMD ["pm2-runtime", "serve", "dist", "3000", "--spa"]
-CMD ["serve", "dist", "-l", "3333"]
+#CMD ["serve", "dist", "-l", "3333"]
+CMD [ "pm2", "serve", "dist", "3333", "--spa" ]
