@@ -1,6 +1,6 @@
 {
   "name": "schoolhacks-app",
-  "homepage": "https://schoolhacks.joergoertel.dk",
+  "homepage": ".",
   "description": "A small, educational app for learning about React-Router and deployment.",
   "author": "Jörg Oertel",
   "license": "Copenhagen Business Academy",
